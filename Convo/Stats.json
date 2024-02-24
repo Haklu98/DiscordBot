@@ -1,0 +1,8 @@
+{
+    "greeting": 0,
+    "goodbye": 0,
+    "insult": 0,
+    "compliment": 0,
+    "question": 0,
+    "users": {}
+}
